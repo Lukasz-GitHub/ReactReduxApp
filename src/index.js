@@ -16,5 +16,6 @@ ReactDOM.render(
     document.getElementById('root')
 );
 
-store.dispatch(addComment('pierwszy komentarz'));
-store.dispatch(addComment('drugi komentarz'));
+store.dispatch(addComment('Tenetur quod quidem in voluptatem corporis dolorum dicta sit pariatur porro quaerat autem ipsam odit quam beatae tempora quibusdam illum! Modi velit odio nam nulla unde amet odit pariatur at!'));
+store.dispatch(addComment('Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?'));
+store.dispatch(addComment('Tenetur laborum quod cum excepturi recusandae porro sint quas soluta!'));
